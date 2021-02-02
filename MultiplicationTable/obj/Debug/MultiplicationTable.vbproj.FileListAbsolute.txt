@@ -1,0 +1,11 @@
+C:\Users\aftanom\Documents\GitHubRepos\MultiplicationTable\Multiplication-Table\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+C:\Users\aftanom\Documents\GitHubRepos\MultiplicationTable\Multiplication-Table\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+C:\Users\aftanom\Documents\GitHubRepos\MultiplicationTable\Multiplication-Table\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+C:\Users\aftanom\Documents\GitHubRepos\MultiplicationTable\Multiplication-Table\MultiplicationTable\bin\Debug\MultiplicationTable.xml
+C:\Users\aftanom\Documents\GitHubRepos\MultiplicationTable\Multiplication-Table\MultiplicationTable\obj\Debug\MultiplicationTable.vbprojAssemblyReference.cache
+C:\Users\aftanom\Documents\GitHubRepos\MultiplicationTable\Multiplication-Table\MultiplicationTable\obj\Debug\MultiplicationTable.Resources.resources
+C:\Users\aftanom\Documents\GitHubRepos\MultiplicationTable\Multiplication-Table\MultiplicationTable\obj\Debug\MultiplicationTable.vbproj.GenerateResource.cache
+C:\Users\aftanom\Documents\GitHubRepos\MultiplicationTable\Multiplication-Table\MultiplicationTable\obj\Debug\MultiplicationTable.vbproj.CoreCompileInputs.cache
+C:\Users\aftanom\Documents\GitHubRepos\MultiplicationTable\Multiplication-Table\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+C:\Users\aftanom\Documents\GitHubRepos\MultiplicationTable\Multiplication-Table\MultiplicationTable\obj\Debug\MultiplicationTable.xml
+C:\Users\aftanom\Documents\GitHubRepos\MultiplicationTable\Multiplication-Table\MultiplicationTable\obj\Debug\MultiplicationTable.pdb
